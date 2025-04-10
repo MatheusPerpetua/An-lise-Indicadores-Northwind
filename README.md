@@ -1,4 +1,4 @@
-Relatório de Análise de Indicadores - Northwind
+## Relatório de Análise de Indicadores - Northwind
 
 Este projeto tem como objetivo responder ao desafio proposto para a vaga de Analista de Dados / Engenheiro de Analytics, utilizando a base de dados da empresa fictícia Northwind Traders.
 
@@ -16,7 +16,7 @@ Com o crescimento acelerado da empresa, os relatórios manuais e sob demanda pas
 
 #Tomar decisões mais embasadas e estratégicas, tornando-se uma empresa data-driven.
 
-##Estrutura Tecnológica Atual
+### Estrutura Tecnológica Atual
 #ERP: Base de dados em PostgreSQL (servidor em nuvem);
 
 #CRM: Salesforce;
@@ -25,7 +25,7 @@ Com o crescimento acelerado da empresa, os relatórios manuais e sob demanda pas
 
 #Ferramentas de BI: Nenhuma em uso atualmente, mas a empresa está aberta a ferramentas como Power BI, Tableau, ou Google Data Studio.
 
-##Objetivo do Projeto
+### Objetivo do Projeto
 #Desenvolver um relatório analítico com indicadores de performance (KPIs) relevantes para o negócio, incluindo insights e sugestões de ações práticas para melhoria de resultados. A entrega final inclui:
 
 #Relatório em formato PDF (com visual profissional);
