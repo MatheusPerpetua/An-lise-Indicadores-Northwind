@@ -8,11 +8,11 @@ A Northwind Traders é uma loja fictícia que gerencia pedidos, produtos, client
 Contexto do Desafio
 Com o crescimento acelerado da empresa, os relatórios manuais e sob demanda passaram a gerar inconsistências entre áreas, resultando em reuniões mais conflituosas. Diante disso, a Northwind busca:
 
-# Aumentar o ticket médio;
+#Aumentar o ticket médio;
 
-# Reduzir o churn de clientes;
+#Reduzir o churn de clientes;
 
-# Ter uma visão integrada dos dados da empresa;
+#Ter uma visão integrada dos dados da empresa;
 
 #Tomar decisões mais embasadas e estratégicas, tornando-se uma empresa data-driven.
 
