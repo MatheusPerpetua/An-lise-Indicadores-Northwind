@@ -8,30 +8,30 @@ A Northwind Traders é uma loja fictícia que gerencia pedidos, produtos, client
 Contexto do Desafio
 Com o crescimento acelerado da empresa, os relatórios manuais e sob demanda passaram a gerar inconsistências entre áreas, resultando em reuniões mais conflituosas. Diante disso, a Northwind busca:
 
-Aumentar o ticket médio;
+# Aumentar o ticket médio;
 
-Reduzir o churn de clientes;
+# Reduzir o churn de clientes;
 
-Ter uma visão integrada dos dados da empresa;
+# Ter uma visão integrada dos dados da empresa;
 
-Tomar decisões mais embasadas e estratégicas, tornando-se uma empresa data-driven.
+#Tomar decisões mais embasadas e estratégicas, tornando-se uma empresa data-driven.
 
-Estrutura Tecnológica Atual
-ERP: Base de dados em PostgreSQL (servidor em nuvem);
+##Estrutura Tecnológica Atual
+#ERP: Base de dados em PostgreSQL (servidor em nuvem);
 
-CRM: Salesforce;
+#CRM: Salesforce;
 
-Contabilidade: ContaAzul;
+#Contabilidade: ContaAzul;
 
-Ferramentas de BI: Nenhuma em uso atualmente, mas a empresa está aberta a ferramentas como Power BI, Tableau, ou Google Data Studio.
+#Ferramentas de BI: Nenhuma em uso atualmente, mas a empresa está aberta a ferramentas como Power BI, Tableau, ou Google Data Studio.
 
-Objetivo do Projeto
-Desenvolver um relatório analítico com indicadores de performance (KPIs) relevantes para o negócio, incluindo insights e sugestões de ações práticas para melhoria de resultados. A entrega final inclui:
+##Objetivo do Projeto
+#Desenvolver um relatório analítico com indicadores de performance (KPIs) relevantes para o negócio, incluindo insights e sugestões de ações práticas para melhoria de resultados. A entrega final inclui:
 
-Relatório em formato PDF (com visual profissional);
+#Relatório em formato PDF (com visual profissional);
 
-Indicadores estratégicos;
+#Indicadores estratégicos;
 
-Recomendações acionáveis;
+#Recomendações acionáveis;
 
-Uso de ferramentas de dados (Python, SQL, Power BI, etc.).
+#Uso de ferramentas de dados (Python, SQL, Power BI, etc.).
